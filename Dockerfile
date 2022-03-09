@@ -1,4 +1,4 @@
-# Use latest jboss/base-jdk:11 image as the base
+# Use latest cybexer/base-jdk:11 image as the base
 FROM cybexer/base-jdk:11
 
 # Set the WILDFLY_VERSION env variable
